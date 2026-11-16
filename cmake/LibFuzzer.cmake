@@ -1,4 +1,4 @@
-function(myproject_check_libfuzzer_support var_name)
+function(computational_modeling_visualized_check_libfuzzer_support var_name)
   set(LibFuzzerTestSource
       "
 #include <cstdint>
